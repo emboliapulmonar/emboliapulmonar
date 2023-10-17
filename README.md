@@ -40,5 +40,5 @@
 <br>Prueba de dímero D: Los niveles de dímero D aumentan en respuesta a los coágulos.</br>
 </i></strong>
 <center><img src="https://th.bing.com/th/id/R.698889e3e6fdc98a8d41aa791d03ff3d?rik=F9lTP%2bYbkyYXsA&pid=ImgRaw&r=0&sres=1&sresct=1" border="10px" height="250px" width="400px"></img></center>
-
+<body background=https://www.bing.com/images/search?view=detailV2&ccid=Afg37NUo&id=0C8504AA2C8CDD05EEFA04813141EBD1219DC26E&thid=OIP.Afg37NUo3WPuxIAoQJmG8AHaHF&mediaurl=https%3a%2f%2fwww.institutovenoso.com.br%2fwp-content%2fuploads%2f2021%2f04%2f2-Embolia-Pulmonar-scaled.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.01f837ecd528dd63eec48028409986f0%3frik%3dbsKdIdHrQTGBBA%26pid%3dImgRaw%26r%3d0&exph=2448&expw=2560&q=embolia+pulmonar&simid=608027766102779800&FORM=IRPRST&ck=8260E2CF148CB6442EBA480BC2D889F1&selectedIndex=0"></body>
 </HTML> 
